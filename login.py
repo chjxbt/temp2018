@@ -4,3 +4,4 @@ def hello():
 	return "hello word"
 
 c = 3
+d = 4
