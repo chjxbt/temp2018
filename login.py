@@ -9,3 +9,6 @@ f = 20
 c = 3
 d = 4
 
+def show():
+	return "show"
+
