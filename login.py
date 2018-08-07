@@ -12,3 +12,5 @@ d = 4
 def show():
 	return "show"
 
+
+str = "张三分支"
